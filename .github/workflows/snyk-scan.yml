@@ -24,7 +24,8 @@ jobs:
 
       - name: Build Project
         run: |
-          mvn --no-transfer-progress -DskipTests -DskipITs clean package -am
+          ls
+          mvn install
 
       - name: "Run SNYK"
         run: |
