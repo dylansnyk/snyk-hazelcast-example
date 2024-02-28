@@ -17,7 +17,7 @@
 
 
     <properties>
-        <hzversion>5.1.2</hzversion>
+        <hzversion>5.2.5</hzversion>
         <hz.kubernetes.version>2.2.3</hz.kubernetes.version>
     </properties>
 
