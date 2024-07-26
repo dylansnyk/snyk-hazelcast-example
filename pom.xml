@@ -21,7 +21,7 @@
         <javalin.version>3.13.12</javalin.version>
         <kotlin-stdlib.version>1.4.31</kotlin-stdlib.version>
         <cache-api.version>1.1.1</cache-api.version>
-        <jackson.version>2.13.3</jackson.version>
+        <jackson.version>2.15.0</jackson.version>
         <failsafe.version>1.1.0</failsafe.version>
         <system-stubs.version>2.0.1</system-stubs.version>
         <mockito.version>4.6.1</mockito.version>
